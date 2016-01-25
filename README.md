@@ -1,2 +1,0 @@
-# psuaacf
-PSU AACF Website
